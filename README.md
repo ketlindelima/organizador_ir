@@ -1,6 +1,6 @@
 # 🧾 Organizador de Imposto de Renda
 
-!Cabeçalho
+![Cabeçalho](./images/cabecalho.png)
 
 Esta planilha foi desenvolvida para facilitar a organização das informações necessárias para a declaração do Imposto de Renda. Com uma interface simples e intuitiva, ela permite reunir todos os dados relevantes em um só lugar, ajudando a evitar esquecimentos e a manter tudo sob controle.
 
@@ -22,6 +22,11 @@ Esta planilha foi desenvolvida para facilitar a organização das informações 
 
 - Microsoft Excel 2016 ou superior
 - Conhecimento básico sobre os documentos exigidos pela Receita Federal
+
+## Telas da Ferramenta
+![Titular](./images/titular.png)
+![Titular](./images/informes.png)
+![Titular](./images/notas.png)
 
 ## 📄 Licença
 
